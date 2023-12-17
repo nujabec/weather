@@ -97,12 +97,14 @@ button:hover {
 .results-temp {
     font-size:6rem;
     margin: 10px 0;
-    color: #f15186
+    color: #f15186;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .results-temp > span {
     font-size: 3rem;
     color: #333;
+    font-family: 'Noto Sans JP', sans-serif;
 }
 
 .results-condition {
